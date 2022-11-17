@@ -8,3 +8,12 @@ C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_
 C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.exe
 C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.pdb
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\bn\multi_language_application.resources.dll
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.Form1.bn.resources
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\bn\multi_language_application.resources.dll
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\es\multi_language_application.resources.dll
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\hi\multi_language_application.resources.dll
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.Form1.es.resources
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.Form1.hi.resources
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\es\multi_language_application.resources.dll
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\hi\multi_language_application.resources.dll
