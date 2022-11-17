@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\multi_language_application.exe.config
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\multi_language_application.exe
+C:\Users\admin\source\repos\multi_language_application\bin\Debug\multi_language_application.pdb
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.Form1.resources
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.Properties.Resources.resources
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.exe
+C:\Users\admin\source\repos\multi_language_application\obj\Debug\multi_language_application.pdb
